@@ -1,2 +1,2 @@
 # Projetos-de-Aula eu to testando
-vamos fazer mais teste depois
+Add novas partes de conteudo para noticias, partde do menu melhorado, e criado parte do conteiner;
