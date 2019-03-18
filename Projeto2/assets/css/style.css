@@ -1,0 +1,110 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+/* inicio do topo1 */
+.topo1{
+    height: 30px;
+    background-color: #333;
+    color: #fff;
+}
+
+.topo1int{
+    width: 100%;
+    max-width: 1040px;
+    height: 30px;
+    margin: 0 auto;
+}
+
+.topoleft{
+    height: 30px;
+    width: 50%;
+    float: left;
+}
+
+.topoleft ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.topoleft li {
+    float: left;
+    height: 30px;
+    line-height: 30px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.topoleft li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.topo1int li .ativo{
+    color: #0523cf;
+}
+
+.toporight{ 
+    height: 28px;
+    width: 50%;
+    float: right;
+    margin-top: 2px;
+}
+
+.topobusca {
+    width: 110px;
+    height: 26px;
+    outline: 0; /* tira a marcação em volta de busca*/
+    border-radius: 3px;
+}
+
+.toporight a {
+    float: right;
+}
+
+.toporight input{
+    float: right;
+}
+
+.toporight img{
+    margin-right: 3px;
+}
+/* fim topo1 */
+
+/* inicio topo 2*/
+
+.topo2{
+    height: 95px;
+    color: #000;
+    
+}
+
+.topo2int{
+    width: 100%;
+    max-width: 1040px;
+    height: 95px;
+    margin: 0 auto;
+}
+
+/*dica para logo, so pode ter 320px*/
+.logo{
+    height: 80px;
+    float: left;
+    margin-top: 8px;
+    margin-left: 20px;
+}
+
+.banner {
+    width: 650px;
+    height: 80px;
+    background-color: red;
+    float: right;
+    margin-top: 7px;
+}
+
+
+
+
+
