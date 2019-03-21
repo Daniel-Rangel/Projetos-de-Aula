@@ -217,9 +217,7 @@ body{
 }
 
 .lefitside{
-    width: 753;
-    min-height: 200px;
-    background-color: #ccc;
+    width: 753px;
     float: left;
 }
 
@@ -262,4 +260,24 @@ body{
 .noticia_item a {
     color: #000;
     text-decoration: none;
+}
+
+.slide_show{
+    height: 335px;
+    background-color: #000;
+    overflow: hidden; /* esta propriedade pede para que a foto escolhita não saia do limite */    
+}
+
+.slide_show_area{
+    width: 100000px;
+    height: 335px;
+    background-color: #efe000;
+}
+
+.slide{
+    height: 335px;
+    float: left;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
