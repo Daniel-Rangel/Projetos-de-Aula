@@ -230,4 +230,36 @@ body{
     margin-left: 12px;
 }
 
+.widget {
+    border: 1px solid #ccc;
+    background-color: #fff;
+    margin-bottom: 10px;
+}
 
+.widget_titulo{
+    height: 30px;
+    line-height: 30px;
+    background-color: #ddd;
+    border-bottom: 1px solid #ccc;
+    padding-left: 5px;
+    font-size: 13px;
+}
+
+.widget_conteudo{
+    text-align: center;
+    padding-top: 5px; 
+    padding-bottom: 5px;
+}
+
+.noticia_item{
+    font-size: 14px;
+    margin: 0 10px;
+    padding: 10px 0;
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+}
+
+.noticia_item a {
+    color: #000;
+    text-decoration: none;
+}
