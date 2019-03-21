@@ -99,7 +99,7 @@ body{
 .banner {
     width: 650px;
     height: 80px;
-    background-color: #ff0000;
+    background-color: #83db56;
     float: right;
     margin-top: 8px;
 }
@@ -108,8 +108,8 @@ body{
 /* inicio menu */
 
 .menu{
-    height: 40px;
-    background-color: #ff0000;
+    height: 40px; 
+    background-color: #83db56;
 }
 
 .menuint{
@@ -117,7 +117,7 @@ body{
     max-width: 1040px;
     height: 40px;
     margin: 0 auto;
-    background-color: #ff0000;
+    background-color: #83db56;
 }
 
 .menu ul{
@@ -127,7 +127,7 @@ body{
 }
 
 .menu li:hover {
-    background-color: #830404;
+    background-color: #04832a;
 }
 
 .menu li{
@@ -151,7 +151,7 @@ body{
 .submenu {
     width: 150px;
     margin-left: -8px;
-    background-color: #830404;
+    background-color: #04832a;
     position: absolute;
     display: none;
 }
@@ -189,7 +189,7 @@ body{
 }
 
 .ultnoticiastitulo{
-    background-color: #ff0000;
+    background-color: #83db56;
     color: #fff;
     height: 28px;
     display: inline-block;
