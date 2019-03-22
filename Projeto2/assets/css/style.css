@@ -272,6 +272,7 @@ body{
     width: 10000px;
     height: 335px;
     background-color: #efe000;
+    transition: all 2s;
 }
 
 .slide{
@@ -280,4 +281,23 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+}
+
+.slide_info{
+    height: 70px;
+    background-image:url('../imagens/slideshow_bg.png');
+    background-size: auto;
+    margin-top: 274px;
+    color: #fff;
+}
+
+.slide_info_titulo{
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.slide_sub_titulo{
+    font-size: 15px;
+    padding-left: 20px;
 }
