@@ -6,7 +6,7 @@ body{
 /* inicio do topo1 */
 .topo1{
     height: 30px;
-    background-color: #333;
+    background-color: #606a70;
     color: #fff;
 }
 
@@ -42,8 +42,8 @@ body{
     color: #fff;
 }
 
-.topo1int li .ativo{
-    color: #0523cf;
+.topo1int :hover{
+    color: #83db56;
 }
 
 .toporight{ 
@@ -269,7 +269,7 @@ body{
 }
 
 .slide_show_area{
-    width: 100000px;
+    width: 10000px;
     height: 335px;
     background-color: #efe000;
 }
