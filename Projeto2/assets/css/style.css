@@ -265,7 +265,8 @@ body{
 .slide_show{
     height: 335px;
     background-color: #000;
-    overflow: hidden; /* esta propriedade pede para que a foto escolhita não saia do limite */    
+    overflow: hidden; /* esta propriedade pede para que a foto escolhita não saia do limite */
+    margin-bottom: 20px;    
 }
 
 .slide_show_area{
@@ -316,4 +317,65 @@ body{
     cursor: pointer;
     background-color: #ccc;
     border-radius: 10px;
+}
+
+.noticia_area1{
+    width: 430px;
+    float: left;
+    height: 420px;
+}
+
+.noticia_area2{
+    width: 320px;
+    height: 420px;
+    float: left;
+}
+
+
+.noticia_item2{
+    text-align: left;
+    height: 88px;
+    margin-bottom: 7px;
+    margin-top: 7px;
+}
+
+.noticia_img{
+    width: 80px;
+    height: 80px;
+    border: 1px solid #000;
+    padding: 3px;
+    float: left;
+}
+
+.noticia_titulo{
+    width: 224px;
+    margin-left: 6px;
+    font-size: 14px;
+    float: left;
+}
+.noticia_info{
+    width: 224px;
+    font-size: 12px;
+    margin-left: 6px;
+    color: #999;
+    float: left;
+}
+
+.noticia_big{
+    margin-left: 10px;
+}
+
+.noticia_big .noticia_img{
+    width: 384px;
+    height: 222px;
+}
+
+.noticia_big .noticia_img img{
+    width: 384px;
+    height: 222px;
+}
+
+.noticia_big .noticia_titulo{
+    font-size: 30px;
+    width: 384px;
 }
